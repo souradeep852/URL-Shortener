@@ -3,4 +3,4 @@ This project uses Django web framework to build a URL shortening web application
 
 Made By: Souradeep Kar  
 Personal Project  
-Tech Stack Used: Django  
+Tech Stack Used: HTML, CSS, Django  
